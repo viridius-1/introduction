@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **flutter, react, nextjs**
 
-- 📫 How to reach me **yafialhakim64@gmail.com**
+- 📫 How to reach me **hornet.dev.0802@gmail.com**
 
 - ⚡ Fun fact **i always learning something new!**
 
